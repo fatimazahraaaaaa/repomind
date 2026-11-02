@@ -1,4 +1,4 @@
-# 🧠 RepoMind
+# RepoMind
 
 **AI-Powered GitHub Repository Onboarding Copilot**
 
@@ -6,7 +6,7 @@ RepoMind is an intelligent tool that helps developers quickly understand and onb
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Onboarding to a new codebase is time-consuming and challenging:
 - **Information Overload**: Large repositories with hundreds of files are overwhelming
@@ -18,9 +18,9 @@ Onboarding to a new codebase is time-consuming and challenging:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📊 **Architecture Summary**
+### **Architecture Summary**
 Automatically generates a comprehensive overview of:
 - Project purpose and type (web app, library, CLI tool, etc.)
 - Primary programming languages and frameworks
@@ -28,14 +28,14 @@ Automatically generates a comprehensive overview of:
 - Architecture patterns (MVC, microservices, monolithic)
 - Key dependencies and technologies
 
-### 📦 **Module Breakdown**
+### **Module Breakdown**
 Provides detailed analysis of:
 - Main directories and logical modules (5-8 key components)
 - Purpose and contents of each module
 - Inter-module relationships and dependencies
 - Code organization patterns
 
-### 🔄 **Key Flows Analysis**
+###  **Key Flows Analysis**
 Explains 2-3 critical workflows such as:
 - Authentication/authorization flows
 - API request handling
@@ -43,7 +43,7 @@ Explains 2-3 critical workflows such as:
 - User interaction patterns
 - Build and deployment processes
 
-### 💬 **Interactive Chat Q&A**
+###  **Interactive Chat Q&A**
 Ask questions about the repository and get instant AI-powered answers:
 - "What is the main purpose of this repository?"
 - "How does authentication work?"
@@ -52,7 +52,7 @@ Ask questions about the repository and get instant AI-powered answers:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **FastAPI** - Modern, fast Python web framework
@@ -72,7 +72,7 @@ Ask questions about the repository and get instant AI-powered answers:
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -127,7 +127,7 @@ Then navigate to `http://localhost:3000`
 
 ---
 
-## 📖 API Documentation
+##  API Documentation
 
 ### Health Check
 ```http
@@ -230,7 +230,7 @@ repomind/
 
 ---
 
-## 🔒 Security Notes
+## Security Notes
 
 - Never commit your `.env` file with API keys
 - The `.bobignore` file prevents sensitive files from being shared with Bob
@@ -239,7 +239,7 @@ repomind/
 
 ---
 
-## 🎨 Features in Action
+## Features in Action
 
 1. **Paste any GitHub URL** into the input field
 2. **Click Analyze** to start the AI-powered analysis
@@ -249,19 +249,16 @@ repomind/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **IBM watsonx.ai** for providing the AI infrastructure
 - **IBM Granite Model** for powerful code analysis capabilities
