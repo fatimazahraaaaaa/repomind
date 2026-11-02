@@ -267,11 +267,3 @@ This project is licensed under the MIT License.
 - **GitPython** for seamless Git integration
 
 ---
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an issue on GitHub.
-
----
-
-**Built with ❤️ using IBM watsonx.ai and IBM Bob**
